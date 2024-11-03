@@ -145,8 +145,8 @@ p {
   scroll-margin-top: 4rem;
 }
 .section-title {
-  text-align: center;
-  margin-bottom: 4rem;
+  text-align: left;
+  margin-bottom: 8rem;
 }
 .section-title h2 {
   text-transform: uppercase;
